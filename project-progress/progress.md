@@ -16,3 +16,5 @@ This page is dedicated to comments, notes, and important observations made by th
 ```python -m django --version```
 
 - Now, I am attempting to install react using a new virtual environment inside of the JS-lib folder. I reinstalled node.js. I am now having issues connecting the node.js path.
+
+- I attempted to move on to something else and play with the TTS library pyttsx3, however, I am expiriencing module installation issues. I installed the module using ```pip install --user pyttsx3``` because I did not have the correct user permissions but there are still connection issues.
