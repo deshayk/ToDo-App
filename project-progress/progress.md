@@ -14,3 +14,5 @@ This page is dedicated to comments, notes, and important observations made by th
 ```python.exe -m pip install --upgrade pip```
 4. Verify Django installation
 ```python -m django --version```
+
+- Now, I am attempting to install react using a new virtual environment inside of the JS-lib folder.
