@@ -1,0 +1,1 @@
+# For Django web application, the script that helps manage the project.
