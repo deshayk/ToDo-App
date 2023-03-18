@@ -10,11 +10,12 @@ This is a simple ToDo application built using Python and MySQL. It allows users 
 - Secure password hashing
 
 ## Technologies used
-
-- Python
+- Azure App Service
+- Azure Cognitive Suite
 - Flask
 - Jinja2
 - MySQL
+- Python
 
 ### Note
 This project is open-source and contributions are welcome. Please feel free to fork the repository and submit pull requests.
